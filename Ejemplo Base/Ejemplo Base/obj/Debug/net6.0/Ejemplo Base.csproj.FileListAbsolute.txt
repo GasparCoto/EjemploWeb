@@ -1,0 +1,26 @@
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\appsettings.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\Ejemplo Base.exe
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\Ejemplo Base.deps.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\Ejemplo Base.runtimeconfig.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\Ejemplo Base.dll
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\bin\Debug\net6.0\Ejemplo Base.pdb
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.csproj.AssemblyReference.cache
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.AssemblyInfoInputs.cache
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.AssemblyInfo.cs
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.csproj.CoreCompileInputs.cache
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets\msbuild.Ejemplo Base.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets\msbuild.build.Ejemplo Base.props
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ejemplo Base.props
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ejemplo Base.props
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\scopedcss\bundle\Ejemplo Base.styles.css
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.dll
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\refint\Ejemplo Base.dll
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.pdb
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\Ejemplo Base.genruntimeconfig.cache
+C:\Users\Gaspa\source\repos\Ejemplo Base\Ejemplo Base\obj\Debug\net6.0\ref\Ejemplo Base.dll
